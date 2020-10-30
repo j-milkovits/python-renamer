@@ -11,3 +11,9 @@
     - y: create a folder for each file and put it in there
     - n: don't create a folder
     - s: if there's folders with the same prefix, the files will also be put in the already existing folders
+
+## Basic usage without folder creation
+![](https://i.imgur.com/M0LHLg1.gif)
+
+## Basic usage with folder creation
+![](https://i.imgur.com/VuQlhdQ.gif)
