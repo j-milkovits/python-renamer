@@ -4,7 +4,7 @@
 - can also create a folder for each file to put it into
 ## How to use it?
 - put all files you want to rename in a folder
-- start the program
+- copy the program into the folder and start it
 - input your prefix
 - input your postfix
 - decide whether it should create a folder
